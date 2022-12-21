@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkSharkAsh
-- 👀 I’m interested in Java ,Javascript, Spring Framework , AWS , Docker .
+- 👀 I’m work on Java ,Javascript, Spring Framework , AWS , Docker .
 - 📫 How to reach me ...
 
 <!---
