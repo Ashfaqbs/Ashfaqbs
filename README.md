@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkSharkAsh
+- 👋 Hi, I’m @Ashfaq
 - 👀 I work on Java ,Javascript, Spring Framework , AWS , Docker .
 - 📫 How to reach me ...
 
