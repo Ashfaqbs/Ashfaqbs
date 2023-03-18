@@ -47,3 +47,4 @@ I hope you enjoyed learning a little bit about me. If you have any questions or 
 
 ![Snake animation](https://github.com/DarkSharkAsh/DarkSharkAsh/blob/output/github-contribution-grid-snake.svg)
 
+
