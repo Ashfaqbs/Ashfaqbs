@@ -45,6 +45,6 @@ I'm passionate about developing high-quality software that solves real-world pro
 
 I hope you enjoyed learning a little bit about me. If you have any questions or would like to connect, please feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/)!
 
-![Snake animation](https://github.com/DarkSharkAsh/DarkSharkAsh/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DarkSharkAsh/DarkSharkAsh/blob/output/github-contribution-grid-snake.gif)
 
 
