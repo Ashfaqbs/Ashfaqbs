@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me   <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="27"></a>
 
 
-<h3 align="left">Connect with me:</h3>
+
 
 ## 🧰 Languages and Tools  
 <div align="left">
