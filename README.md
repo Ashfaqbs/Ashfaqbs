@@ -3,58 +3,86 @@ DarkSharkAsh/DarkSharkAsh is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+> ![DarkSharkAsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSharkAsh&&count_private=true&show_icons=true&theme=dark)
 --->
+ 
+<h1 align="center">Hi 👋, I'm Ashfaq</h1>
+<h3 align="center">I'm passionate about developing high-quality software that solves real-world problems. I enjoy collaborating with other developers and learning new technologies to improve my skills.</h3>
 
-  # Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darksharkash&label=Profile%20views&color=0e75b6&style=flat" alt="darksharkash" /> </p>
 
-I'm @Ashfaq,
-- 👀 I work on Springboot,AWS,Docker.
-- 📫 How to reach me   <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="30"></a>
-  
-  
-I'm passionate about developing high-quality software that solves real-world problems. I enjoy collaborating with other developers and learning new technologies to improve my skills.
+- 🔭 I’m currently working on **Springboot, Docker, AWS**
 
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **Springboot**
+
+- 💬 Ask me about **JAVA,Spring Framework,Docker**
+
+- 📫 How to reach me   <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="27"></a>
+
+
+<h3 align="left">Connect with me:</h3>
 
 ## 🧰 Languages and Tools  
-<div style="padding:10">  
-<a href="https://www.java.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" margin="2"/></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="60"/</a>  
-<a href="https://github.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="55" margin="2"/></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60"/></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60"/></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60"/></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/></a>  
-</div>  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
 <br/> 
 
 
 <h1 dir="auto"></h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## GitHub Stats
 
-![DarkSharkAsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkSharkAsh&&count_private=true&show_icons=true&theme=dark)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darksharkash&show_icons=true&locale=en" alt="darksharkash" /></p>
 
 ## Language Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSharkAsh&layout=compact)](https://github.com/DarkSharkAsh/github-readme-stats)
 
+## Streak Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darksharkash&" alt="darksharkash" /></p>
 
 ## Favorite Quote
 
@@ -64,5 +92,15 @@ I'm passionate about developing high-quality software that solves real-world pro
 
 I hope you enjoyed learning a little bit about me. If you have any questions or would like to connect, please feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/)!
 
+###
 
-![snake gif](https://github.com/DarkSharkAsh/DarkSharkAsh/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/darksharkash/darksharkash/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
+
+
+
+
