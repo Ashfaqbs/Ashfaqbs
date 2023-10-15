@@ -78,13 +78,13 @@ You can click the Preview link to take a look at your changes.
 
 ## GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darksharkash&show_icons=true&locale=en" alt="darksharkash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaqbs&show_icons=true&locale=en" alt="darksharkash" /></p>
 
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSharkAsh&layout=compact)](https://github.com/DarkSharkAsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfaqbs&layout=compact)](https://github.com/DarkSharkAsh/github-readme-stats)
 
 ## Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darksharkash&" alt="darksharkash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaqbs&" alt="darksharkash" /></p>
 
 ## Favorite Quote
 
