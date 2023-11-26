@@ -11,13 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksharkash&label=Profile%20views&color=0e75b6&style=flat" alt="darksharkash" /> </p>
 
-- 🔭 I’m currently working on **Springboot, Docker, AWS**
+- 🔭 I’m currently working on **Springboot, Docker, AWS, Kafka**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React State Management**
 
-- 👯 I’m looking to collaborate on **Springboot**
+- 👯 Let's collaborate on **Springboot, React, Kafka, Docker**
 
-- 💬 Ask me about **JAVA,Spring Framework,Docker**
+- 💬 Ask me about **JAVA, Spring Framework, Docker, React, Kafka**
 
 - 📫 How to reach me   <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="27"></a>
 
