@@ -96,6 +96,8 @@ You can click the Preview link to take a look at your changes.
 I hope you enjoyed learning a little bit about me. If you have any questions or would like to connect, please feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/b-s-mohammed-ashfaq-519860225/)!
 
 
+<img src="https://raw.githubusercontent.com/Ashfaqbs/Ashfaqbs/output/snake.svg" alt="Snake animation" />
 
+###
 
 
