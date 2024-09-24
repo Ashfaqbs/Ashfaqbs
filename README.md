@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Springboot, Docker, AWS, Kafka**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 Let's collaborate on **Springboot, React, Kafka, Docker**
 
