@@ -40,7 +40,8 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://banner2.cleanpng.com/20180823/qyv/kisspng-mongodb-logo-database-nosql-web-development-and-stuff-page-3-1713950393630.webp" height="40" alt="new logo" />
+
  
 </div>
 
@@ -63,7 +64,10 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
-  <img src="https://cdn.brandfetch.io/id4lI3yCuu/w/700/h/832/theme/dark/logo.png?k=bfHSJFAPEG" height="40" alt="zipkin logo"  />
+  <img src="https://zipkin.io/public/img/logo_png/zipkin_vertical_grey_gb.png" height="40" alt="zipkin logo" />
+  <img width="10" />
+  <img src="https://1000logos.net/wp-content/uploads/2024/09/Jenkins-Emblem-768x432.png" height="40" alt="Jenkins logo" style="vertical-align: middle;" />
+
 </div>
 
 ###
