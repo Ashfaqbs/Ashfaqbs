@@ -39,8 +39,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
- <img width="12" />
-  <img src="https://banner2.cleanpng.com/20180823/qyv/kisspng-mongodb-logo-database-nosql-web-development-and-stuff-page-3-1713950393630.webp" height="40" alt="new logo" />
+<img width="8" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> -->
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
+
 
  
 </div>
@@ -65,8 +67,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://zipkin.io/public/img/logo_png/zipkin_vertical_grey_gb.png" height="40" alt="zipkin logo" />
-  <img width="10" />
-  <img src="https://1000logos.net/wp-content/uploads/2024/09/Jenkins-Emblem-768x432.png" height="40" alt="Jenkins logo" style="vertical-align: middle;" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 
 </div>
 
