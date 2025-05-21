@@ -61,6 +61,8 @@ You can click the Preview link to take a look at your changes.
    <img src="images/kafka.svg" alt="Kafka" height="56" />
    <img width="12" />
    <img src="images/apache-flink.png" alt="Apache Flink" height="40" />
+      <img width="12" />
+   <img src="images/beam_logo.png" alt="Apache beam" height="35" width="60" />
    <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
