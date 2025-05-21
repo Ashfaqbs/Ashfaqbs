@@ -57,8 +57,10 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo"  />
+  <img width="12" />
+   <img src="images/K8s.svg" alt="Apache Flink" height="40" />
    <img width="12" />
-   <img src="images/kafka.svg" alt="Kafka" height="56" />
+   <img src="images/kafka.svg" alt="K8S" height="56" />
    <img width="12" />
    <img src="images/apache-flink.png" alt="Apache Flink" height="40" />
       <img width="12" />
