@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
    <img width="12" />
    <img src="images/kafka.svg" alt="Kafka" height="56" />
    <img width="12" />
-   <img src="images/apache-flink.png" alt="Python" height="40" />
+   <img src="images/apache-flink.png" alt="Apache Flink" height="40" />
    <img width="10" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
