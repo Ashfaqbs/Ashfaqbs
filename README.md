@@ -36,6 +36,8 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
  <img width="12" />
+   <img src="images/py.svg" alt="Python" height="40" />
+ <img width="12" />
    <img src="images/PG.svg" alt="Postgres" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
