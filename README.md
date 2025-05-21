@@ -35,15 +35,14 @@ You can click the Preview link to take a look at your changes.
  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*CiVW0IQDeLIYO8uXrd-8dw.png" height="38" alt="Rest API logo"  />
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+ <img width="12" />
+   <img src="images/PG.svg" alt="Postgres" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+<img width="12" />
+  <img src="images/mongo.svg" alt="MongoDB" height="40"  />
+ <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
-<img width="8" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> -->
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" />
-
-
  
 </div>
 
