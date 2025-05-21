@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
   <img width="12" />
- <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*CiVW0IQDeLIYO8uXrd-8dw.png" height="38" alt="Rest API logo"  />
+ <img src="images/rest.webp" height="38" alt="Rest API logo" style="border-radius: 20%"  />
   <img width="12" />
  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
  <img width="12" />
