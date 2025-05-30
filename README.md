@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
  
 <h1 align="center">Hi 👋, I'm Ashfaq</h1>
-<h3 align="center">I'm passionate about developing high-quality software that solves real-world problems. I enjoy collaborating with other developers and learning new technologies to improve my skills.<strong> <a href='https://ashfaq-portfolio-0.netlify.app/' target='_blank'>Portfolio</a> </strong></h3>
+<h3 align="center">I'm passionate about building high-quality software and AI/ML solutions that address real-world challenges. I enjoy collaborating with fellow developers and often work with open-source tools to build scalable, efficient systems. I'm always exploring better ways to solve problems through clean architecture, thoughtful design, and continuous learning..<strong> <a href='https://ashfaq-portfolio-0.netlify.app/' target='_blank'>Portfolio</a> </strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksharkash&label=Profile%20views&color=0e75b6&style=flat" alt="darksharkash" /> </p>
 
