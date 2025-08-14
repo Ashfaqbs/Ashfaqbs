@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksharkash&label=Profile%20views&color=0e75b6&style=flat" alt="darksharkash" /> </p>
 
-- 🔭 I'm currently working on **Springboot, Docker, Flink, Kafka, K8S**
+- 🔭 I'm currently working on **Software Development, Container & Orchestration, Applied AI, System Design, Apache Flink**
 
 - 🌱 I'm currently learning **System Design**
 
-- 👯 Let's collaborate on **Springboot, Kafka, Docker, Flink**
+- 👯 Let's collaborate on **Software Development, Applied AI**
 
-- 💬 Ask me about **Java, Spring Framework, Docker, React, Kafka, Flink**
+- 💬 Ask me about **Software Development, Container & Orchestration, Messaging Queues, Applied AI, System Design, Apache Flink**
 
 - 📫 How to reach me   <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="27"></a>
 
