@@ -129,7 +129,6 @@ graph LR
     DB --- MONGODB[🍃 MongoDB]
     DB --- REDIS[🔴 Redis]
     DB --- ORACLE[🏛️ Oracle]
-    DB --- CASSANDRA[💎 Cassandra]
     DB --- ROCKSDB[⛰️ RocksDB]
     
     %% Container & Cloud Native
