@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ashfaq</h1>
+<h1 align="center">Hey, I'm Ashfaq 👋</h1>
 <h3 align="center">I'm passionate about building high-quality software and AI/ML solutions that address real-world challenges. I enjoy collaborating with fellow developers and often work with open-source tools to build scalable, efficient systems. I'm always exploring better ways to solve problems through clean architecture, thoughtful design, and continuous learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksharkash&label=Profile%20views&color=0e75b6&style=flat" alt="darksharkash" /> </p>
 
-- 🔭 I'm currently working on **Software Development, Container & Orchestration, Applied AI, System Design, Apache Flink**
-
-- 🌱 I'm currently learning **System Design**
-
-- 👯 Let's collaborate on **Software Development, Applied AI**
-
-- 💬 Ask me about **Software Development, Container & Orchestration, Messaging Queues, Applied AI, System Design, Apache Flink**
-
-- 📫 How to reach me   <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq/"> <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Linked_in_alt.png" width="30" height="27"></a>
+| | |
+|---|---|
+| 🔭 **Currently building** | Software Development · Container Orchestration · Applied AI · System Design · Apache Flink |
+| 🌱 **Currently learning** | System Design |
+| 👯 **Open to collaborate** | Software Development · Applied AI |
+| 💬 **Talk to me about** | Backend · Messaging Queues · Containers · Applied AI · Flink |
+| 📫 **Reach me** | <a href="https://www.linkedin.com/in/b-s-mohammed-ashfaq/">LinkedIn</a> |
 
 
 
 
-## 🧰 Languages and Tools
-
+<!-- ## 🧰 Languages and Tools -->
+<!--
 ### 💻 Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -28,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  style="border-radius: 20%" />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  style="border-radius: 20%" /> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  style="border-radius: 20%" />
 </div>
 
 ### 🔧 Backend Development
@@ -106,106 +104,94 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+-->
 
 <br/>
 
-## 🌐 Technical Skills Universe
+## 🛠️ Things I Can Build With
 
 ```mermaid
+%%{init: {"theme": "dark", "themeVariables": {"fontSize": "13px", "fontFamily": "ui-monospace, monospace"}, "flowchart": {"curve": "linear", "nodeSpacing": 30, "rankSpacing": 55}}}%%
 graph LR
-    %% Central node
-    ASHFAQ[🌟 ASHFAQ 🌟]
 
-    %% Core Programming Languages
-    ASHFAQ --- LANG[⌨️ Programming Languages]
-    LANG --- JAVA[☕ Java]
-    LANG --- PYTHON[🐍 Python]
-    LANG --- JS[🟨 JavaScript]
-    LANG --- GO[🔷 Golang]
+    %% ── Left leaves ──────────────────────────────────────────────────────
+    Java        --- LANG
+    Python      --- LANG
+    JavaScript  --- LANG
+    Go          --- LANG
 
-    %% Backend Development
-    ASHFAQ --- BACKEND[🔧 Backend Development]
-    BACKEND --- SPRING[🌱 Spring Framework]
-    BACKEND --- FASTAPI[⚡ FastAPI]
-    BACKEND --- FLASK[🔥 Flask]
-    BACKEND --- EXPRESS[📟 Express.js]
+    SpringBoot["Spring Boot"] --- BACKEND
+    FastAPI     --- BACKEND
+    Flask       --- BACKEND
+    Express["Express.js"] --- BACKEND
 
-    %% System Design
-    ASHFAQ --- SYSDES[🏛️ System Design]
-    SYSDES --- HLD[📊 High Level Design]
-    SYSDES --- LLD[🔩 Low Level Design]
+    HLD["High Level Design"] --- SYSDES
+    LLD["Low Level Design"]  --- SYSDES
 
-    %% AI/ML
-    ASHFAQ --- AI[🧠 Artificial Intelligence]
-    AI --- ML[⚙️ Machine Learning]
-    AI --- RAG[📖 RAG Systems]
-    AI --- LLM[🔬 LLM Tuning & Evaluation]
-    AI --- AGENTS[🤖 AI Agents]
-    AI --- MCP[🔗 MCP]
+    Docker      --- INFRA
+    Kubernetes  --- INFRA
+    EC2         --- AWS
+    RDS         --- AWS
+    S3          --- AWS
+    SQS         --- AWS
+    AWS         --- INFRA
+    GCP         --- INFRA
 
-    %% Database Expertise
-    ASHFAQ --- DB[💾 Database Technologies]
-    DB --- POSTGRES[🐘 PostgreSQL]
-    DB --- MONGODB[🍃 MongoDB]
-    DB --- REDIS[🔴 Redis]
-    DB --- ORACLE[🏛️ Oracle]
-    DB --- ROCKSDB[⛰️ RocksDB]
+    Prometheus  --- OBS
+    Grafana     --- OBS
+    Zipkin      --- OBS
 
-    %% Container & Cloud Native
-    ASHFAQ --- CONTAINER[📦 Container Orchestration]
-    CONTAINER --- K8S[☸️ Kubernetes]
-    CONTAINER --- DOCKER[🐳 Docker]
-    CONTAINER --- PODMAN[🦭 Podman]
+    React       --- FRONTEND
 
-    %% Cloud Platforms
-    ASHFAQ --- AWS[☁️ Amazon Web Services]
-    AWS --- EC2[🖥️ EC2]
-    AWS --- RDS[🗄️ RDS]
-    AWS --- S3AWS[🗂️ S3]
-    AWS --- EB[🚀 Elastic Beanstalk]
+    %% ── Left hubs → ME ───────────────────────────────────────────────────
+    LANG["Languages"]       --- ME
+    BACKEND["Backend"]      --- ME
+    SYSDES["System Design"] --- ME
+    INFRA["Infrastructure"] --- ME
+    OBS["Observability"]    --- ME
+    FRONTEND["Frontend"]    --- ME
 
-    ASHFAQ --- GCP[🌐 Google Cloud Platform]
-    GCP --- S3GCP[☁️ Cloud Storage]
+    %% ── Centre ───────────────────────────────────────────────────────────
+    ME(["ME"])
 
-    %% Messaging & Streaming
-    ASHFAQ --- MQ[📨 Message Queue Systems]
-    MQ --- KAFKA[🌊 Apache Kafka]
-    MQ --- RABBITMQ[🐰 RabbitMQ]
-    MQ --- AWSSQS[📬 AWS SQS]
+    %% ── ME → Right hubs ──────────────────────────────────────────────────
+    ME --- AI["AI and ML"]
+    ME --- DATA["Data Engineering"]
+    ME --- DB["Databases"]
 
-    %% ETL & Data Processing
-    ASHFAQ --- ETL[🔄 Data Processing Pipeline]
-    ETL --- FLINK[💧 Apache Flink]
-    ETL --- BEAM[🌈 Apache Beam]
+    %% ── Right leaves ─────────────────────────────────────────────────────
+    AI   --- MachineLearning["Machine Learning"]
+    AI   --- RAG["RAG Systems"]
+    AI   --- LLMTuning["LLM Tuning"]
+    AI   --- AIAgents["AI Agents"]
+    AI   --- MCP
 
-    %% Performance & Testing
-    ASHFAQ --- PERF[📈 Performance Engineering]
-    PERF --- JMETER[⚡ JMeter]
+    DATA --- Kafka["Apache Kafka"]
+    DATA --- Flink["Apache Flink"]
+    DATA --- Beam["Apache Beam"]
 
-    %% Frontend
-    ASHFAQ --- FRONTEND[🌐 Frontend Development]
-    FRONTEND --- REACT[⚛️ React]
+    DB   --- PostgreSQL
+    DB   --- MongoDB
+    DB   --- Redis
+    DB   --- Oracle
+    DB   --- RocksDB
+    DB   --- Elasticsearch
 
-    %% Styling
-    style ASHFAQ fill:#ff1744,stroke:#fff,stroke-width:5px,color:#fff
-    style LANG fill:#2e7d32,stroke:#fff,stroke-width:3px,color:#fff
-    style BACKEND fill:#1565c0,stroke:#fff,stroke-width:3px,color:#fff
-    style SYSDES fill:#6a1b9a,stroke:#fff,stroke-width:3px,color:#fff
-    style AI fill:#d84315,stroke:#fff,stroke-width:3px,color:#fff
-    style DB fill:#00838f,stroke:#333,stroke-width:2px,color:#fff
-    style CONTAINER fill:#558b2f,stroke:#333,stroke-width:2px,color:#fff
-    style AWS fill:#ff8f00,stroke:#333,stroke-width:2px
-    style MQ fill:#5e35b1,stroke:#333,stroke-width:2px,color:#fff
-    style ETL fill:#00acc1,stroke:#333,stroke-width:2px
-    style GCP fill:#3949ab,stroke:#333,stroke-width:2px,color:#fff
-    style PERF fill:#43a047,stroke:#333,stroke-width:2px
-    style FRONTEND fill:#1976d2,stroke:#333,stroke-width:2px,color:#fff
+    %% ── Styles ───────────────────────────────────────────────────────────
+    style ME       fill:#0d47a1,stroke:#90caf9,stroke-width:4px,color:#fff,font-weight:bold
+    style LANG     fill:#1b5e20,stroke:#a5d6a7,stroke-width:2px,color:#fff,font-weight:bold
+    style BACKEND  fill:#0d47a1,stroke:#90caf9,stroke-width:2px,color:#fff,font-weight:bold
+    style SYSDES   fill:#4a148c,stroke:#ce93d8,stroke-width:2px,color:#fff,font-weight:bold
+    style INFRA    fill:#33691e,stroke:#aed581,stroke-width:2px,color:#fff,font-weight:bold
+    style OBS      fill:#1a237e,stroke:#9fa8da,stroke-width:2px,color:#fff,font-weight:bold
+    style FRONTEND fill:#01579b,stroke:#81d4fa,stroke-width:2px,color:#fff,font-weight:bold
+    style AI       fill:#b71c1c,stroke:#ef9a9a,stroke-width:2px,color:#fff,font-weight:bold
+    style DATA     fill:#4527a0,stroke:#b39ddb,stroke-width:2px,color:#fff,font-weight:bold
+    style DB       fill:#006064,stroke:#80deea,stroke-width:2px,color:#fff,font-weight:bold
 ```
 
-<h1 dir="auto"></h1>
-
+<!--
 ## GitHub Stats
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaqbs&show_icons=true&locale=en" alt="darksharkash" /></p>
 
 ## Language Stats
@@ -213,6 +199,7 @@ graph LR
 
 ## Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaqbs&" alt="darksharkash" /></p>
+-->
 
 ## Favorite Quote
 
