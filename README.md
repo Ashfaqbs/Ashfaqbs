@@ -192,13 +192,13 @@ graph LR
 
 <br/>
 
-## 🌱 Open Source
+## Open Source
 
-Projects I maintain:
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=90CAF9&center=false&vCenter=true&width=650&lines=150%2B+public+repositories+on+GitHub;Apache+Flink+%C2%B7+Qdrant+%C2%B7+MCP+Servers+%C2%B7+AI+Agents;flink-connector-qdrant+%E2%80%94+Flink+SQL+%E2%86%92+Qdrant;apache-flink-mcp-server+%E2%80%94+LLMs+%E2%86%92+Flink+clusters;Real+fixes%2C+shipped+from+real+feedback" alt="Open source projects typing animation" />
+</p>
 
-- **[flink-connector-qdrant](https://github.com/Ashfaqbs/flink-connector-qdrant)** — Apache Flink SQL connector for the Qdrant vector DB. No official connector existed, so I built one: batching, retries, upserts by point ID, plus a version-ordering fix shipped after a reviewer flagged a real gap in production semantics.
-- **[apache-flink-mcp-server](https://github.com/Ashfaqbs/apache-flink-mcp-server)** — an MCP server that lets AI assistants query and manage Apache Flink clusters in plain language. Recently added multi-cluster support.
-- **[software-dev-ai-claude-toolkit](https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit)** — a production-ready Claude Code configuration (rules, commands, agents, skills, hooks, MCP servers) for Java/Spring Boot, Python/FastAPI, JS/React, and the data/infra stack.
+Full list → [github.com/Ashfaqbs?tab=repositories](https://github.com/Ashfaqbs?tab=repositories)
 
 <!--
 ## GitHub Stats
