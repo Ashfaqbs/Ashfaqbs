@@ -192,14 +192,6 @@ graph LR
 
 <br/>
 
-## Open Source
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=90CAF9&center=false&vCenter=true&width=650&lines=150%2B+public+repositories+on+GitHub;Apache+Flink+%C2%B7+Qdrant+%C2%B7+MCP+Servers+%C2%B7+AI+Agents;flink-connector-qdrant+%E2%80%94+Flink+SQL+%E2%86%92+Qdrant;apache-flink-mcp-server+%E2%80%94+LLMs+%E2%86%92+Flink+clusters;Real+fixes%2C+shipped+from+real+feedback" alt="Open source projects typing animation" />
-</p>
-
-Full list → [github.com/Ashfaqbs?tab=repositories](https://github.com/Ashfaqbs?tab=repositories)
-
 <!--
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaqbs&show_icons=true&locale=en" alt="darksharkash" /></p>
@@ -218,9 +210,5 @@ Full list → [github.com/Ashfaqbs?tab=repositories](https://github.com/Ashfaqbs
 ## Thanks for stopping by!
 
 I hope you enjoyed learning a little bit about me. If you have any questions or would like to connect, please feel free to [reach out to me on LinkedIn](https://www.linkedin.com/in/b-s-mohammed-ashfaq/)!
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashfaqbs&theme=github-compact&hide_border=true&area=true&bg_color=00000000" alt="Ashfaqbs's activity graph" width="100%" />
-</p>
 
 ###
