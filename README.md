@@ -190,6 +190,27 @@ graph LR
     style DB       fill:#006064,stroke:#80deea,stroke-width:2px,color:#fff,font-weight:bold
 ```
 
+<br/>
+
+## 🌱 Open Source
+
+A few things I maintain and ship real fixes into, not just fork-and-forget:
+
+- **[flink-connector-qdrant](https://github.com/Ashfaqbs/flink-connector-qdrant)** — Apache Flink SQL connector for the Qdrant vector DB. No official connector existed, so I built one: batching, retries, upserts by point ID, plus a version-ordering fix shipped after a reviewer flagged a real gap in production semantics.
+- **[apache-flink-mcp-server](https://github.com/Ashfaqbs/apache-flink-mcp-server)** — an MCP server that lets AI assistants query and manage Apache Flink clusters in plain language. Recently added multi-cluster support.
+- **[software-dev-ai-claude-toolkit](https://github.com/Ashfaqbs/software-dev-ai-claude-toolkit)** — a production-ready Claude Code configuration (rules, commands, agents, skills, hooks, MCP servers) for Java/Spring Boot, Python/FastAPI, JS/React, and the data/infra stack.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashfaqbs&show_icons=true&include_all_commits=true&count_private=false&hide=stars&hide_border=true&title_color=90caf9&icon_color=90caf9&text_color=c9d1d9&bg_color=00000000" alt="Ashfaqbs's GitHub stats" height="165" />
+</p>
+
+### 🐍 Contribution snake
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Ashfaqbs/Ashfaqbs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ashfaqbs/Ashfaqbs/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
+</p>
+
 <!--
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaqbs&show_icons=true&locale=en" alt="darksharkash" /></p>
